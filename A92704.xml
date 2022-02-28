@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, for the calling out the levy of one thousand men, for the year 1697.</title>
+            <author>William III, King of England, 1650-1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92704</idno>
+            <idno type="STC">Wing S1929</idno>
+            <idno type="STC">ESTC R213097</idno>
+            <idno type="EEBO-CITATION">43078133</idno>
+            <idno type="OCLC">ocm 43078133</idno>
+            <idno type="VID">151700</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92704)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151700)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2272:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, for the calling out the levy of one thousand men, for the year 1697.</title>
+                  <author>William III, King of England, 1650-1702.</author>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heirs and successors of Andrew Anderson, printer to His most Excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Pages have print bleed-through.</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library, San Marino, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Recruiting and enlistment --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:151700:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+               <hi>A PROCLAMATION,</hi> For the Calling out the Levy of One Thouſand Men, for the Year <hi>1697.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>ILLIAM</hi> by the Grace of GOD, King of <hi>Great-Britain, France,</hi> and <hi>Ireland,</hi> Defender of the Faith: To  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  Macers of Our Privy Council, Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſeverally, ſpecially conſtiute, Greeting. Foraſmuch, as by the Twenty third Act of the laſt Seſſion of this current Parliament, <hi>It is Statute and Ordained,</hi> That for the Service of this preſent War, and Recruit<g ref="char:EOLhyphen"/>ing of Our Regiments, either at Home or Abroad, there ſhall be Furniſhed to Us the Number of One Thouſand Men yearly, when We ſhall Require them, to be Proportioned and Levied, conform to the Proportions contained in the Act of Parliament, one thouſand ſix hundred and ſixty three, Intituled, <hi>An Humble Tender to His Sacred Majeſty of the Duty and Loyalty of His Ancient Kingdom of</hi> Scotland, as to the Twenty thouſand Foot therein-mentioned; which Thouſand Men, by the foreſaid Act, are appointed to be Furniſhed and Levied in this manner, <hi>viz.</hi> That the Commiſſioners of Supply for the re<g ref="char:EOLhyphen"/>ſpective Bounds where the ſaids Proportions ſhall fall, or any Five of them as the <hi>Quorum,</hi> appointed to that effect by the foreſaid Act, or the Sheriffs and their Deputs, or the Lords and Baillies of Regalities, or Stewarts and their Deputs, the Magiſtrats of Burghs, firſt deſign and cauſe be given, the idle, looſe and vagabond perſons lyable by former Acts of Parliament, to be ſeized by Sheriffs to make up the foreſaid Number, and the remainder of the ſaid Pro<g ref="char:EOLhyphen"/>portions are to be put furth according to the former Rules in uſe for ſubdivid<g ref="char:EOLhyphen"/>ing the ſame within each Shire<g ref="char:punc">▪</g> And by the foreſaid Act of Parliament, Here<g ref="char:EOLhyphen"/>tors are Impowered to deſign and make choice of ſuch young Fencible Men living within their reſpective Bounds, and not having Wife or Children, and who earn their Living by daily Wages or Termly Hire, as ſhal ſatisfie for their part of the ſaid Levy, or other wiſe the Tennents and Fencible-Men ſhall have their option to offer and pay down for each of the ſaid Men that may fall to be put out by them, the Sum of Twenty four pound <hi>Scots,</hi> ſo that the Di<g ref="char:EOLhyphen"/>ſtrict ſhall either deliver a good Man effectually, or pay the ſaid Twenty four pounds: And furder, the ſaids Heretors (conform to the foreſaid Act of
+<pb n="2" facs="tcp:151700:2"/>Parliament) are hereby Impowered to ſecure the perſon or perſons de<g ref="char:EOLhyphen"/>ſigned, or choſen as ſaid is; and for the encouragement of the foreſaids perſons ſo to be deſigned and made choice of, it is further <hi>Statute and Ordained</hi> by the foreſaid Act, that each of them ſhall before Delivery, have Twenty pounds <hi>Scots</hi> payed to him in ready Money by the Officer who receives him, at the ſight of one of the ſaids Commiſſioners; as alſo, that their being put furth and engaged as ſaid is, ſhall not oblige them longer to be and continue Souldiers than for the ſpace of three years, and the firſt of <hi>November</hi> next after the Iſh of the ſaids three years from the time of their Engagement. And We Conſidering, that the preſent Exigence of Our Ser<g ref="char:EOLhyphen"/>vice, doth require the foreſaid Number of One Thouſand Men, to be Furniſh<g ref="char:EOLhyphen"/>ed and Levied for this preſent Year with all diſpatch and expedition: There<g ref="char:EOLhyphen"/>fore We with Advice of the Lords of Our privy Council, Require and Com<g ref="char:EOLhyphen"/>mend the Commiſſioners of Supply of the ſeveral Shires, Stewartries and Burghs within this Kingdom, upon this ſide of <hi>Tay,</hi> to meet at the Head-Burghs of their reſpective Shires and Stewartries upon the ſeventh day of <hi>Januarie</hi> next to come one thouſand ſix hundred ninety ſeven, &amp; the Commiſſioners of Sup<g ref="char:EOLhyphen"/>ply for all the reſt of this Kingdom, at the Head-burghs of their reſpective Shires &amp; Stewartries, upon the fourteenth day of the ſaid Month with Certification to ſuch of them not other ways imployed in our publick Service who ſhal not meet, they ſhal be lyable each of them to the Penalties contained in the Acts of Parliament made anent the Militia and there to Proceed, Deſign, and have in readineſs, in manner, and conform to the Twenty third Act laſt Seſſion of this current Parliament, and Method therein ſet down the particular Number of Men re<g ref="char:EOLhyphen"/>ſpective after-mentioned, or Twenty four pounds <hi>Scots</hi> for each Man to be delivered to the Officers to be ſent by Order of our Priyy Council, or of Col<g ref="char:EOLhyphen"/>lonel <hi>George Hamilton</hi> Colonel to one of our Regiments in <hi>Flanders,</hi> at the reſpective Head-Burghs, upon payment of Twenty pounds <hi>Scots</hi> to every Man who ſhall be delivered of the ſaid One Thouſand Men, in manner above<g ref="char:EOLhyphen"/>mentioned, upon the days after ſet down. <hi>viz.</hi> Theſe for the Shires of <hi>Edinburgh Berwick, Had<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ingtoun, Roxburgh, Selkirk, Peebles, Linlithgow, Drumfries, Wig<g ref="char:EOLhyphen"/>town</hi> and Stewartrie of <hi>Kirkeudbright, Air, Renfrew, Lanerk, Stirling, Cla<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kmannan, Fife, Kinroſs,</hi> and theſe of the Shires of <hi>Argile, Bute</hi> and <hi>Dumbartoun,</hi> with theſe for the Town of <hi>Edinburgh, Leith</hi> and <hi>Cannongate,</hi> at the reſpective Head-burghs thereof, upon the Fifteenth day of the ſaid Month of <hi>Jannuary</hi> next, and theſe for the Shires of <hi>Perth, Forfar, Kincardin,</hi> and <hi>Mariſhal</hi>'s part of <hi>Aberdeen, Bamf,</hi> and the reſt of <hi>Aberdeen-Shire,</hi> with theſe for the Shires of <hi>Elgin, Nairn,</hi> and this ſide of <hi>Neſs,</hi> the Earl of <hi>Sea<g ref="char:EOLhyphen"/>forth</hi> and Lord <hi>Lovats</hi> Diviſion of <hi>Inverneſs,</hi> the Shires of <hi>Southerland, Caithneſs,</hi> and the reſt of <hi>Inverneſs,</hi> with the Stewartrie of <hi>Orkney</hi> and <hi>Zetland,</hi> upon the twenty ſecond day of the ſaid Month: And We with Advice foreſaid, Require the ſaid Collonel <hi>George Hamilton</hi> timeouſly to diſ<g ref="char:EOLhyphen"/>patch and ſend ſuch Officers, or others as he ſhall think fit, ſufficiently im<g ref="char:EOLhyphen"/>powered with an Order and Warrand under his Hand, to the Head-Burghs of the ſeveral Shires and Stewartries before-mentioned, to receive thereat the Pro<g ref="char:EOLhyphen"/>portions of Men wherein the ſaids reſpective Shires, Stewartries and Burghs are lyable, and to make payment of the Twenty pounds <hi>Scots</hi> to each Perſon who ſhall be delivered to them as a Souldier in manner foreſaid, or other<g ref="char:EOLhyphen"/>ways to receive and get payment of the ſaid Twenty four pound <hi>Scots</hi> for e<g ref="char:EOLhyphen"/>very undelivered Perſon, and grant Receipt of the ſamen; And which thouſand Men, or twenty four pounds <hi>Scots</hi> for each undelivered Man, are to be delivered to, and received by the ſaids Officers at the Head-Burghs of the
+<pb n="3" facs="tcp:151700:2"/>ſeveral Shires and Stewartries of this Kingdom in manner, and by the Pro<g ref="char:EOLhyphen"/>portions after mentioned <hi>viz.</hi> That there be delivered for the Shires of <hi>Rox<g ref="char:EOLhyphen"/>burgh</hi> and <hi>Selkirk</hi> at the Head-Burghs thereof, the Number of Sixty ſix Men; For the, Shire of <hi>Benvick</hi> at the Head-Burgh thereof, the Number of Fourty Men. For the Shire of <hi>Haddingtoun</hi> Fourty Men. For the Shire of <hi>Peebles</hi> Thirteen Men. For the Shire of <hi>Edinburgh</hi> Fourty Men. For the Shire of <hi>Dumfried</hi> Fourty Men. For the Shire of <hi>Wigtoun</hi> Fifteen Men. For the Stewartrie of <hi>Kirkcudbright</hi> Twenty five Men. For the Shires of <hi>Air</hi> and <hi>Ren<g ref="char:EOLhyphen"/>frew</hi> Sixty ſix Men. For the Shire of <hi>Lanerk</hi> Fifty Men. For the Shire of <hi>Lin<g ref="char:EOLhyphen"/>lithgow</hi> ſeventeen Men. By the Town of <hi>Edinburgh, Leith and Cannongate,</hi> Fourty Men. By the Shires of <hi>Stirling and Clackmannan</hi> Thirty four Men. By <hi>Fife and Kinroſs</hi> Eighty Men. By the Shires of <hi>Argyle, Dumbartoun</hi> and <hi>Bute,</hi> Fourty Men: As alſo there is to be delivered in manner foreſaid by the Shire of <hi>Perth</hi> Eighty Men. By the Shire of <hi>Forfar</hi> Fifty Men. By the Shire of <hi>Kincardin</hi> and <hi>Mariſhals</hi> Part of <hi>Aberdene</hi> Fourty Men. By the Shire of <hi>Bamf,</hi> and reſt of <hi>Aberdeen</hi> Shire, Fifty three Men. By the Shires of <hi>Nairn. Elgin,</hi> and this ſide of <hi>Neſs,</hi> Fifty Men. By the Earl of <hi>Seaforths,</hi> and Lord <hi>Lovats</hi> Diviſion of <hi>Inverneſs,</hi> Thirty four Men. By the Shires of <hi>Sutherland, Caithneſs,</hi> and the reſt of <hi>Inverneſs,</hi> Fifty three Men. And by the Stew<g ref="char:EOLhyphen"/>artries of <hi>Orkney</hi> and <hi>Zetland,</hi> Thirty four Men, or twenty four Pounds <hi>Scots reſpective,</hi> for each undelivered Man in manner above-mentioned. And We with Advice foreſaid, authorize and appoint the ſeveral perſons af<g ref="char:EOLhyphen"/>ter-named, to judge and determine upon all Differences and Debates that may ariſe betwixt the Commiſſioners of the ſeveral Shires and Burghs, and the Officers that ſhal be ſent to them anent the Sufficiency and Inſufficiency of the men to be Outreiked in this preſent Levie, <hi>viz. Sir</hi> John Pringle of S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itchel the Laird of Grubet younger, and the Sheriff-deput of Roxburgh for the ſaid Shire, Sir James Murray of Philiphaugh, one of the Senators of the Colledge of Juſtice, or his Depute for the shire of Selkirk, Sir John Hume of Blaca<g ref="char:EOLhyphen"/>der, Sir John Swintoun of that Ilk; or the Sheriff-deput of the Shire of Ber<g ref="char:EOLhyphen"/>vick, with either of them for the ſaid Shire, the Earle of Lauderdale with ei<g ref="char:EOLhyphen"/>ther of the Sheriff-deputs of Edinburgh for the Shire thereof, the Lord Pro<g ref="char:EOLhyphen"/>voſt of Edinburgh, with Sir William Auſtruther of that Ilk one of the Senators of the Colledge of Juſtice for the Town of Edinburgh, the Lairds of Preſton<g ref="char:EOLhyphen"/>grange and Bean<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oun, or either of them, with the Sheriff deput of Hadding<g ref="char:EOLhyphen"/>toun for the ſaid Shire Lawſon of Ca<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>muir with the Sheriff-depute of Peebles for the ſaid Shire, Sir Thomas Kirkpatrick of Closburn, and Johnſtoun of Elcheſh<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ls for the Shire of Drumfries, Sir An<g ref="char:EOLhyphen"/>drew Agnew of Lochnaw and the Laird of Garthland for the Shire of Wigton the Lairds of Ruſco and Machrimore for the Stewartrie of Kirkcudbright, the Lairds of Rowalland, Kilbirnie, Cai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>letoun, and John Mure Provoſt of Air, and the Sheriff-deput of Air for the Shire of Air, the Lairds of Craigens Glanderſtoun, and Gald well, and the Sheriff-deput of Renfrew for the ſaid Shire, Sir Alexander Monro of Bear-crofts, and William Cunninghame of Boquhane for the Shire of Stirling Rollo of Woodſide for the Shire of Clackmannan Hamilton of Udſtoun Sheriff-deput, &amp; Andrew <hi>Hay</hi> of Craignethen for the Overward of Lanerk Shire Hamilton of Barn<g ref="char:EOLhyphen"/>cleugh, &amp; Hamilton of Aikenhead for the Netherward thereof, the Lairds of Livingſtoun, Dudingſtoun, &amp; Pardivan for the Sheriffdom of Linlithgow,
+<pb n="4" facs="tcp:151700:3" rendition="simple:additions"/>Sir <hi>Charles Halket</hi> of <hi>Pitfirren,</hi> Sir <hi>James Mcgill</hi> of <hi>Rankellior,</hi> the Lairds of <hi>Randifoord, Auchtermarnie, Readie, Hay younger</hi> of <hi>Naughtoun,</hi> and the Sheriff-Deput of <hi>Fyf,</hi> for the Shire, of <hi>Fyf;</hi> The Maſter of <hi>Burghly</hi> for the Shire of <hi>Kinroſs,</hi> the Lord <hi>Ruthven,</hi> Sir <hi>Colin Campbel</hi> of <hi>Aberuchle</hi> one of the Senators of the Colledge of Juſtice, the Lairds of <hi>Megniſh, Culforgie, Dumbarnie</hi> younger; And the Sheriff-Deput of <hi>Perth,</hi> for the Shire of <hi>Perth; Fullertoun</hi> of <hi>Kinnaber,</hi> and Miln of <hi>Balwillo,</hi> for the Shire of <hi>Forfar; Irving</hi> of <hi>Kincouſie,</hi> and the Sheriff-De<g ref="char:EOLhyphen"/>put of <hi>Kincardin</hi> for the ſaid Shire; And <hi>Marſchals</hi> part of <hi>Aberdeen,</hi> the Laird of <hi>Craigivar, Alexander Duff</hi> of <hi>Braco,</hi> the Laird of <hi>Munimusk</hi> younger, the Laird of <hi>Birkenboog,</hi> and Sheriff-Deput of <hi>Bamff</hi> for the reſt of <hi>Aberdeen</hi>-Shire and Bamff; The Lairds of <hi>Brodie, Lethim</hi> and <hi>Culloden, Dumbar</hi> of <hi>Grange,</hi> and the Sheriff-Deput of <hi>Inver<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſs</hi> for <hi>Elgin, Nairn,</hi> and this ſide of <hi>Neſs;</hi> Sir <hi>Alexander Mckenzie</hi> of <hi>Coull, Mckenzie</hi> of <hi>Red<g ref="char:EOLhyphen"/>caſtle,</hi> the Laird of <hi>Collodon,</hi> and <hi>Frazar</hi> of <hi>Rerick,</hi> for the Earl, of <hi>Seaforth,</hi> and the Lord <hi>Lovats,</hi> Diviſion of <hi>Inverneſs,</hi> the Laird of <hi>Bal<g ref="char:EOLhyphen"/>nagoon,</hi> Sir <hi>Adam Gordon</hi> of <hi>Dalfollie,</hi> and the Sheriff-Deput of <hi>Southerland,</hi> the Laird of <hi>Hempriggs, Sinclair</hi> of <hi>Brimes</hi> younger; for the reſt of <hi>Inverneſs,</hi> and Shires of <hi>Southerland</hi> and <hi>Caithneſs;</hi> The Land of <hi>Ardkin<g ref="char:EOLhyphen"/>glaſs,</hi> Sir <hi>John Campbel</hi> of <hi>Carrick,</hi> for the Shire of <hi>Argyle</hi> and the Sheriff-Deput of the ſaid Shire, <hi>Claud Hamilton</hi> of <hi>Barns; Colquhoun</hi> of <hi>Craig<g ref="char:EOLhyphen"/>toun</hi> for Shire of <hi>Dumbarton;</hi> The Laird of <hi>Kelburn</hi> or his Deput for the Shire of <hi>Bute; James Beakie</hi> of <hi>Tankerneſs,</hi> and the Laird of <hi>Grahameſhall</hi> for <hi>Orkney</hi> and <hi>Zetland:</hi> And to the Effect Our Pleaſure in the Premiſſes may be known. OUR WILL IS HEREFORE, and We Charge you ſtrict<g ref="char:EOLhyphen"/>ly and Command, that incontinent theſe Our Letters ſeen, ye paſs to the Mercat-Croſs of <hi>Edinburgh,</hi> and to the Mercat-Croſſes of the remanent Head-Burghs of the ſeveral Shires and Stewartries within this Kingdom and there in Our Name and Authority, by open Proclamation, make Intimation of the Premiſſes, that none pretend Ignorance.</p>
+            <closer>
+               <dateline>
+                  <hi>Given under Our Signet at</hi> Edinburgh <date>
+                     <hi>the Sixteenth day of</hi> December, <hi>and of Our Reign the eighth year</hi> 1696.</date>
+               </dateline>
+               <signed>
+                  <hi>Per Actum Dominorum Secreti Concilii.</hi> GILB. ELIOT, <hi>Cls. Sti. Concilii.</hi>
+               </signed>
+            </closer>
+            <closer>GOD ſave the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heirs and Succeſſors of <hi>Andrew Anderſon,</hi> Printer to His moſt Excellent Majeſty, 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
